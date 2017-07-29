@@ -15,7 +15,7 @@ class WelcomeVC: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
-    @IBAction func unwindFromSckillVC(unwindSegue: UIStoryboardSegue) {
+    @IBAction func unwindFromSkillVC(unwindSegue: UIStoryboardSegue) {
         
     }
 
